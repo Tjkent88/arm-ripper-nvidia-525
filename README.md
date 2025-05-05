@@ -1,4 +1,4 @@
-# arm-ripper-nvidia-525
+# arm-ripper-nvidia-525 (depreciated)
 
 Added the update for pioneer drive bug issue noted 
 https://github.com/automatic-ripping-machine/automatic-ripping-machine/issues/779
